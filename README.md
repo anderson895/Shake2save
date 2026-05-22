@@ -3,9 +3,7 @@
 Emergency alert app — shake your phone to instantly send your GPS location to an emergency response team.
 
 ---
-
 ## Requirements
-
 - **Node.js** (v18 or higher)
 - **Expo Go** app installed on your Android/iOS phone
 - **Firebase project** (already configured — see Firebase Setup below)
