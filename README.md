@@ -7,9 +7,7 @@ Emergency alert app — shake your phone to instantly send your GPS location to 
 - **Node.js** (v18 or higher)
 - **Expo Go** app installed on your Android/iOS phone
 - **Firebase project** (already configured — see Firebase Setup below)
-
 ---
-
 ## Getting Started
 
 ### 1. Install Dependencies
